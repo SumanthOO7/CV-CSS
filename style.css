@@ -257,7 +257,7 @@ section .title::after{
    background: url("") no-repeat center;
 }
 .contact .title::after{
-    content: "Reach me";
+    content: "Get In Touch";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
